@@ -1,3 +1,3 @@
-export const Screens = {
+export const ScreenNames = {
   SEARCH_SCREEN: 'SearchScreen',
 };
